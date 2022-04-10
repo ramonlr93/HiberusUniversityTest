@@ -3,7 +3,7 @@ import org.testng.annotations.Test;
 
 public class FirstTest {
   int num1 = 5;
-  int num2 = 2;
+  int num2 = 3;
 
   @Test
   public void myFirstTest(){
