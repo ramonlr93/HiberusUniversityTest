@@ -5,6 +5,6 @@ public class FirstTest {
 
   @Test
   public void myFirstTest(){
-    Assert.assertTrue(1==2);
+    Assert.assertTrue(2==2);
   }
 }
