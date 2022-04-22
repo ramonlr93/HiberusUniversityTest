@@ -3,7 +3,11 @@ import org.testng.annotations.Test;
 
 public class FirstTest {
   int num1 = 5;
-  int num2 = 3;
+  int num2 = 5; //Cambiamos valor para que sean iguales
+
+  //--------------------
+  //Comentario
+  //--------------------
 
   @Test
   public void myFirstTest(){
