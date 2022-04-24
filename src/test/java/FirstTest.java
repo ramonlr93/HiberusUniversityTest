@@ -2,11 +2,11 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class FirstTest {
-  int num1 = 5;
-  int num2 = 3;
+  int num1 = 8;
+  int num2 = 8;
 
   @Test
   public void myFirstTest(){
-    Assert.assertTrue(num1==num2,"Es el valor "+num1+" igual al valor "+num2+"");
+    Assert.assertEquals(num1, num2,"El valor de num1: "+num1+" NO es igual al valor de num2: "+num2+"");
   }
 }
