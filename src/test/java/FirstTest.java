@@ -3,6 +3,7 @@ import org.testng.annotations.Test;
 
 public class FirstTest {
   int num1 = 5;
+  //variable num1 con valor de 5
   int num2 = 3;
 
   @Test
