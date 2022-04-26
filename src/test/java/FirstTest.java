@@ -10,3 +10,5 @@ public class FirstTest {
     Assert.assertTrue(num1==num2,"Es el valor "+num1+" igual al valor "+num2+"");
   }
 }
+
+//Comentario de Moni para la práctica de git, martes 26 de abril de 2022
