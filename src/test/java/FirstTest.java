@@ -8,5 +8,9 @@ public class FirstTest {
   @Test
   public void myFirstTest(){
     Assert.assertTrue(num1==num2,"Es el valor "+num1+" igual al valor "+num2+"");
+    System.out.println("Añado un comentario que se muestra por pantalla para" +
+            " realizar cambios y poder hacer commit y push");
   }
+
+  
 }
