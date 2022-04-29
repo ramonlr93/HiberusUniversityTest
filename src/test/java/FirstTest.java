@@ -8,5 +8,6 @@ public class FirstTest {
   @Test
   public void myFirstTest(){
     Assert.assertTrue(num1==num2,"Es el valor "+num1+" igual al valor "+num2+"");
+    System.out.println("Esto es un prueba, por favor ignore este mensaje");
   }
 }
