@@ -7,6 +7,7 @@ public class FirstTest {
 
   @Test
   public void myFirstTest(){
-    Assert.assertTrue(num1==num2,"Es el valor "+num1+" igual al valor "+num2+"");
+    Assert.assertTrue(num1!=num2,"Es el valor "+num1+" igual al valor "+num2+"");
+    System.out.println("Fin de la prueba");
   }
 }
