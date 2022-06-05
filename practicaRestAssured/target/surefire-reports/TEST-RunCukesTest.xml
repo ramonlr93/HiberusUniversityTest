@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RunCukesTest" time="30.973" tests="61" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="idea.version" value="2021.3.2"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin"/>
+    <property name="java.vm.version" value="25.311-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Nelida\Desktop\Hiberus\Ramon\practicaRestAssured"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Nelida\Desktop\Hiberus\Ramon\practicaRestAssured"/>
+    <property name="java.runtime.version" value="1.8.0_311-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Nelida\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_311\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_311\bin;%MAVEN_HOME%\bin;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Users\Nelida\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Nelida\AppData\Local\Programs\Python\Python39\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Nelida\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Nelida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin;;;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\maven\lib\maven3/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Nelida"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Nelida"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_311\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.3.2 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="es"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_311"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_311\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Given La API está disponible" classname="Scenario: Un mensaje de error correcto es proporcionado  cuando el orden no existe" time="0.004"/>
+  <testcase name="When Busco un pedido con el identificador &apos;15787678&apos;" classname="Scenario: Un mensaje de error correcto es proporcionado  cuando el orden no existe" time="0"/>
+  <testcase name="Then las respuestas contendrán el valor &apos;Order not found&apos;para el campo&apos;message&apos;" classname="Scenario: Un mensaje de error correcto es proporcionado  cuando el orden no existe" time="0"/>
+  <testcase name="Scenario: Un mensaje de error correcto es proporcionado  cuando el orden no existe" classname="Scenario: Un mensaje de error correcto es proporcionado  cuando el orden no existe" time="0.001"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Los usuarios pueden crear un pedido" time="0"/>
+  <testcase name="When Creo un pedido de mascota con el identificador &apos;58&apos;" classname="Scenario: Los usuarios pueden crear un pedido" time="0"/>
+  <testcase name="Then La respuesta del pedido tiene &apos;200&apos; response code" classname="Scenario: Los usuarios pueden crear un pedido" time="0"/>
+  <testcase name="And La respuesta del pedido contiene la información correcta" classname="Scenario: Los usuarios pueden crear un pedido" time="0.005"/>
+  <testcase name="Scenario: Los usuarios pueden crear un pedido" classname="Scenario: Los usuarios pueden crear un pedido" time="0.005"/>
+  <testcase name="Given el pedido existe para una mascota" classname="Scenario: Los usuarios pueden buscar pedidos según id" time="0"/>
+  <testcase name="When busco el pedido según identificador" classname="Scenario: Los usuarios pueden buscar pedidos según id" time="0.001"/>
+  <testcase name="Then el pedido completo es devuelto" classname="Scenario: Los usuarios pueden buscar pedidos según id" time="0"/>
+  <testcase name="Scenario: Los usuarios pueden buscar pedidos según id" classname="Scenario: Los usuarios pueden buscar pedidos según id" time="0.001"/>
+  <testcase name="Given el gato está&apos;available&apos;" classname="Scenario: Los usuarios pueden pedir mascotas disponibles" time="0"/>
+  <testcase name="Then Puedo pedir un gato" classname="Scenario: Los usuarios pueden pedir mascotas disponibles" time="0.003"/>
+  <testcase name="Scenario: Los usuarios pueden pedir mascotas disponibles" classname="Scenario: Los usuarios pueden pedir mascotas disponibles" time="0.004"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Los usuarios pueden añadir mascotas" time="0"/>
+  <testcase name="When Añado una mascota al sistema" classname="Scenario: Los usuarios pueden añadir mascotas" time="0"/>
+  <testcase name="Then la peticion máscota tiene &apos;200&apos; response code" classname="Scenario: Los usuarios pueden añadir mascotas" time="0"/>
+  <testcase name="And la respuesta de la mascota contiene la informacion correcta" classname="Scenario: Los usuarios pueden añadir mascotas" time="0"/>
+  <testcase name="Scenario: Los usuarios pueden añadir mascotas" classname="Scenario: Los usuarios pueden añadir mascotas" time="0"/>
+  <testcase name="Given la mascota existe" classname="Scenario: Los usuarios pueden borrar mascotas" time="0"/>
+  <testcase name="When Borro la mascota" classname="Scenario: Los usuarios pueden borrar mascotas" time="0"/>
+  <testcase name="And entonces busco mascota por su identificador" classname="Scenario: Los usuarios pueden borrar mascotas" time="0"/>
+  <testcase name="Then las respuestas contendrán el valor &apos;Pet not found&apos;para el campo&apos;message&apos;" classname="Scenario: Los usuarios pueden borrar mascotas" time="0"/>
+  <testcase name="Scenario: Los usuarios pueden borrar mascotas" classname="Scenario: Los usuarios pueden borrar mascotas" time="0"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Los usuarios pueden añadir mascotas con varias etiquetas" time="0.003"/>
+  <testcase name="Then Puedo añadir una mascota con muchas etiquetas" classname="Scenario: Los usuarios pueden añadir mascotas con varias etiquetas" time="0"/>
+  <testcase name="Scenario: Los usuarios pueden añadir mascotas con varias etiquetas" classname="Scenario: Los usuarios pueden añadir mascotas con varias etiquetas" time="0"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Los usuarios pueden añadir mascotas sin etiquetas" time="0"/>
+  <testcase name="Then Puedo insertar una mascota sin etiquetas" classname="Scenario: Los usuarios pueden añadir mascotas sin etiquetas" time="0"/>
+  <testcase name="Scenario: Los usuarios pueden añadir mascotas sin etiquetas" classname="Scenario: Los usuarios pueden añadir mascotas sin etiquetas" time="0"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Los ids son autogenerados cuando no se proporcionan para una mscota" time="0"/>
+  <testcase name="When Añado una mascota al sistema sin identificador" classname="Scenario: Los ids son autogenerados cuando no se proporcionan para una mscota" time="0"/>
+  <testcase name="Then Un id es autogenerado para la mascota" classname="Scenario: Los ids son autogenerados cuando no se proporcionan para una mscota" time="0"/>
+  <testcase name="Scenario: Los ids son autogenerados cuando no se proporcionan para una mscota" classname="Scenario: Los ids son autogenerados cuando no se proporcionan para una mscota" time="0.001"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Inserto una mascota con información incorrecta y devuelve un 400" time="0"/>
+  <testcase name="When Añado una mascota y la información es incorrecta &apos;{&apos;" classname="Scenario: Inserto una mascota con información incorrecta y devuelve un 400" time="0"/>
+  <testcase name="Then la peticion máscota tiene &apos;400&apos; response code" classname="Scenario: Inserto una mascota con información incorrecta y devuelve un 400" time="0"/>
+  <testcase name="Then las respuestas contendrán el valor &apos;bad input&apos;para el campo&apos;message&apos;" classname="Scenario: Inserto una mascota con información incorrecta y devuelve un 400" time="0"/>
+  <testcase name="Scenario: Inserto una mascota con información incorrecta y devuelve un 400" classname="Scenario: Inserto una mascota con información incorrecta y devuelve un 400" time="0"/>
+  <testcase name="Given Un usuario valido existe" classname="Scenario: Los usuarios se pueden buscar por su username" time="0"/>
+  <testcase name="When Busco un usuario por su username" classname="Scenario: Los usuarios se pueden buscar por su username" time="0"/>
+  <testcase name="Then el usuario es localizado" classname="Scenario: Los usuarios se pueden buscar por su username" time="0"/>
+  <testcase name="Scenario: Los usuarios se pueden buscar por su username" classname="Scenario: Los usuarios se pueden buscar por su username" time="0"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Un usuario puede iniciar sesión" time="0"/>
+  <testcase name="When Intento iniciar sesion" classname="Scenario: Un usuario puede iniciar sesión" time="0"/>
+  <testcase name="Then Verifico inicio sesion" classname="Scenario: Un usuario puede iniciar sesión" time="0"/>
+  <testcase name="Scenario: Un usuario puede iniciar sesión" classname="Scenario: Un usuario puede iniciar sesión" time="0"/>
+  <testcase name="Given La API está disponible" classname="Scenario: Un usuario puede cerrar sesión" time="0"/>
+  <testcase name="Then Verifico cierre sesion" classname="Scenario: Un usuario puede cerrar sesión" time="0.001"/>
+  <testcase name="Scenario: Un usuario puede cerrar sesión" classname="Scenario: Un usuario puede cerrar sesión" time="0.001"/>
+  <testcase name="When envio peticion crear usuario" classname="Scenario: Puedo crear un usuario" time="0"/>
+  <testcase name="Then verifico usuario creado" classname="Scenario: Puedo crear un usuario" time="0"/>
+  <testcase name="Scenario: Puedo crear un usuario" classname="Scenario: Puedo crear un usuario" time="0"/>
+  <testcase name="When envio peticion borrar usuario" classname="Scenario: Puedo borrar un usuario" time="0"/>
+  <testcase name="Then verifico usuario borrado" classname="Scenario: Puedo borrar un usuario" time="0"/>
+  <testcase name="Scenario: Puedo borrar un usuario" classname="Scenario: Puedo borrar un usuario" time="0"/>
+  <testcase name="When envio peticion actualizar usuario" classname="Scenario: Puedo actualizar un usuario" time="0"/>
+  <testcase name="Then verifico actualizado" classname="Scenario: Puedo actualizar un usuario" time="0"/>
+  <testcase name="Scenario: Puedo actualizar un usuario" classname="Scenario: Puedo actualizar un usuario" time="0.001"/>
+</testsuite>
