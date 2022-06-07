@@ -1,0 +1,15 @@
+Apis\UserEndpoint.class
+modelo\User.class
+Stepdefs\OrderEndpointStepDefinitions.class
+Stepdefs\Global.class
+Apis\OrderEndpoint.class
+Stepdefs\CommonDefinitions.class
+modelo\Order.class
+modelo\Pet.class
+modelo\Tag.class
+Stepdefs\PetEndpointStepDefinitions.class
+Apis\PetEndpoint.class
+Apis\BaseEndpoints.class
+modelo\Category.class
+Stepdefs\UserEndpointStepDefinitions.class
+RunCukesTest.class
